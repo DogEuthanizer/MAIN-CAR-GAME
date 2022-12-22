@@ -16,6 +16,7 @@ void draw(){
    rect(240,275,200,50);
 
     fill(#FFFFFF);
+   textSize(25)
       text("PRESS TO START",260,308);
   }
   
